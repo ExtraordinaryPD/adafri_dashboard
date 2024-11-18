@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">React Admin Dashboard</h1>
 
 ![Demo App](/public/screenshot-for-readme-1.png)
@@ -24,3 +25,6 @@ npm install
 ```shell
 npm run start
 ```
+=======
+# adafri_dashboard
+>>>>>>> 97a7cef6013dbabc803368bca1706dd4e705bf9e
