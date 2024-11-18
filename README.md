@@ -1,14 +1,6 @@
 <<<<<<< HEAD
 <h1 align="center">React Admin Dashboard</h1>
 
-![Demo App](/public/screenshot-for-readme-1.png)
-![Demo App](/public/screenshot-for-readme-2.png)
-![Demo App](/public/screenshot-for-readme-3.png)
-
-[Video Tutorial on Youtube](https://youtu.be/gK0v_d91epk)
-
-### This is a free admin dashboard ui kit built with:
-
 -   React
 -   Tailwind CSS
 -   Recharts
@@ -17,6 +9,8 @@
 It is completely responsive and can be used for any type of web application.
 
 ### Run this app locally
+
+Git clone https://github.com/ExtraordinaryPD/adafri_dashboard.git
 
 ```shell
 npm install
@@ -27,4 +21,4 @@ npm run start
 ```
 =======
 # adafri_dashboard
->>>>>>> 97a7cef6013dbabc803368bca1706dd4e705bf9e
+
